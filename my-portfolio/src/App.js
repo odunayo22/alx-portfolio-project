@@ -3,6 +3,7 @@ import Nav from './components/Nav/Nav';
 import Header from './components/Header/Header';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';
+import Services from './components/Services/Services';
 //import './App.css';
 
 const App = ()=> {
@@ -12,6 +13,7 @@ const App = ()=> {
      <Nav />
      <About />
      <Experience />
+     <Services />
     </div>
   );
 }
