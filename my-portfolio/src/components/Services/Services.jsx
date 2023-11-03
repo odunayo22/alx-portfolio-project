@@ -19,18 +19,14 @@ const Services = () => {
 
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p> I am well-experienced in software engineering roles such as  </p>
+                            <p> I am well-experienced in software engineering roles </p>
                         </li>
 
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p> building website to fit different media screen  </p>
+                            <p> Building website to fit different media screen  </p>
                         </li>
-
-                        <li>
-                            <BiCheck className='service__list-icon' />
-                            <p> building website to fit different media screen  </p>
-                        </li>
+                                            
                         
                     </ul>
 
@@ -52,7 +48,7 @@ const Services = () => {
 
                         <li>
                             <BiCheck className='service__list-icon' />
-                            <p> scheduling of office works.  </p>
+                            <p> Scheduling of office works.  </p>
                         </li>
 
                         <li>
